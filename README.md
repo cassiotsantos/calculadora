@@ -4,7 +4,7 @@ Neste projeto, você encontra uma calculadora simples para realizar operações 
 
 ### 📋 Pré-requisitos
 
-Ter o Vc code e/ou navegador.
+Ter o VS code e/ou navegador.
 
 ## ⚙️ Executando os testes
 
